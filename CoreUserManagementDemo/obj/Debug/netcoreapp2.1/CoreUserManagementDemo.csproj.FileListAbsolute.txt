@@ -35,3 +35,4 @@ C:\Users\kumar.thamilarasan\source\repos\CoreUserManagementDemo\CoreUserManageme
 C:\Users\kumar.thamilarasan\source\repos\CoreUserManagementDemo\CoreUserManagementDemo\obj\Debug\netcoreapp2.1\CoreUserManagementDemo.csproj.CopyComplete
 C:\Users\kumar.thamilarasan\source\repos\CoreUserManagementDemo\CoreUserManagementDemo\obj\Debug\netcoreapp2.1\CoreUserManagementDemo.csprojAssemblyReference.cache
 C:\Users\kumar.thamilarasan\source\repos\CoreUserManagementDemo\CoreUserManagementDemo\obj\Debug\netcoreapp2.1\UserSecretsAssemblyInfo.cs
+C:\Users\kumar.thamilarasan\source\repos\CoreUserManagementDemo\CoreUserManagementDemo\obj\Debug\netcoreapp2.1\Razor\Views\Manage\Index.g.cshtml.cs
